@@ -24,3 +24,7 @@ Each flight has multiple fares. A fare has a fare code, restrictions, and amount
 
 Corresponding to each leg instance, we also track each seat. For a given leg instance, the seat is identified by seat number, and we record the passenger name, phone number, origin, destination, baggage code, baggage count, and payment id. (The payment id is to refer to a different database that tracks reservations, payments, and so on)
 
+**Enterprise Relationship Diagram (ERD)**
+![ERD](ERD.png)
+**Relational Schema**
+![Relational_Schema](Relational_Schema.png)
