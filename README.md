@@ -1,10 +1,10 @@
-#Designing a database for an airline company
+**Designing a database for an airline company**
 
-##Summary
+**Summary**
 
 In this project, we designed an efficient and scalable database for an abstract airline company by considering the intricacies of the airline network. An ERD and Relational scheme have been provided below.
 
-##Description
+**Description**
 
 Airlines would have flights identified by an Airline number. Each flight has attributes like airline code, and days of the week the flight is operated( Operational_days).
 
