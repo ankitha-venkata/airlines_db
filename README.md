@@ -1,4 +1,4 @@
-##Designing a database for an airlines company
+#Designing a database for an airline company
 
 ##Summary
 
